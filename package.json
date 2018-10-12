@@ -1,0 +1,14 @@
+{
+  "preferGlobal": true,
+  "bin": {
+    "git-diff-base": "index.js"
+  },
+  "name": "git-diff-base",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"No tests here\" && exit 1"
+  },
+  "author": "Joshua Sullivan",
+  "license": "MIT"
+}
